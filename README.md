@@ -5,4 +5,5 @@ Basic DL structure implementation
 - CVAE
 
 ### NP
-- NP
+- LNP
+- CNP
